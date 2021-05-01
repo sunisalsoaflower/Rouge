@@ -1,0 +1,8 @@
+For Visual Studio:
+
+Create a new Windows Console app project. eg. ConsoleApp1
+Copy all files in the zip folder into the folder ConsoleApp1/ConsoleApp1
+Open project and attach all files
+Run main.
+
+Or for any other compiler, run main, making sure everything is in the folder
